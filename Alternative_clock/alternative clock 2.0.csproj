@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>alternative_clock_2._0</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resource\Arrow minut hours.png" />
+    <None Remove="Resource\Arrow second.png" />
+    <None Remove="Resource\kisspng-clock-seiko-watch-case-astron-jam-5ac9520dc74770.6693295915231431818163.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resource\Arrow minut hours.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resource\Arrow second.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resource\kisspng-clock-seiko-watch-case-astron-jam-5ac9520dc74770.6693295915231431818163.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

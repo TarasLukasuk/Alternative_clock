@@ -1,0 +1,26 @@
+﻿<Window x:Class="alternative_clock_2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:alternative_clock_2._0"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="450" WindowStyle="None" ResizeMode="NoResize"
+        AllowsTransparency="True" Loaded="Window_Loaded" KeyDown="Window_KeyDown">
+    <Window.Background>
+        <SolidColorBrush Color="Black" Opacity="0"/>
+    </Window.Background>
+        <Grid Name="Backgraund">
+        <Ellipse Fill="Black"/>
+        <Ellipse Fill="#FFD4D4D4" Margin="20"/>
+        <Ellipse Fill="White" Width="30" Height="30" Opacity="0.3" Margin="210,206,210,214">
+            <Ellipse.Effect>
+                <DropShadowEffect Color="Gray" BlurRadius="50" />
+            </Ellipse.Effect>
+        </Ellipse>
+        <Image Source="/Resource/kisspng-clock-seiko-watch-case-astron-jam-5ac9520dc74770.6693295915231431818163.png" Margin="21"/>
+        <Image x:Name="Second_arrow" Source="/Resource/Arrow second.png" Margin="12,20,12,214" RenderTransformOrigin="0.501,0.933"/>
+        <Image x:Name="Minut_arrow" Source="/Resource/Arrow minut hours.png" Margin="12,72,12,218" RenderTransformOrigin="0.501,0.933"/>
+        <Image x:Name="Hours_arrow" Source="/Resource/Arrow minut hours.png" Margin="12,111,12,221" RenderTransformOrigin="0.501,0.933"/>
+    </Grid>
+</Window>

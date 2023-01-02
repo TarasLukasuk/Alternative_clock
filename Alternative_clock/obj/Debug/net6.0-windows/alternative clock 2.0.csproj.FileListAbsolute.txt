@@ -1,0 +1,42 @@
+F:\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.exe
+F:\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.deps.json
+F:\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.runtimeconfig.json
+F:\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.dll
+F:\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.pdb
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.csproj.AssemblyReference.cache
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\App.g.cs
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0_MarkupCompile.cache
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0_MarkupCompile.lref
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\MainWindow.baml
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.g.resources
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.GeneratedMSBuildEditorConfig.editorconfig
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.AssemblyInfoInputs.cache
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.AssemblyInfo.cs
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.csproj.CoreCompileInputs.cache
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.dll
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\refint\alternative clock 2.0.dll
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.pdb
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.genruntimeconfig.cache
+F:\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\ref\alternative clock 2.0.dll
+F:\progect\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.exe
+F:\progect\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.deps.json
+F:\progect\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.runtimeconfig.json
+F:\progect\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.dll
+F:\progect\alternative clock 2.0\alternative clock 2.0\bin\Debug\net6.0-windows\alternative clock 2.0.pdb
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.csproj.AssemblyReference.cache
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\App.g.cs
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0_MarkupCompile.cache
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0_MarkupCompile.lref
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\MainWindow.baml
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.g.resources
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.GeneratedMSBuildEditorConfig.editorconfig
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.AssemblyInfoInputs.cache
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.AssemblyInfo.cs
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.csproj.CoreCompileInputs.cache
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.dll
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\refint\alternative clock 2.0.dll
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.pdb
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\alternative clock 2.0.genruntimeconfig.cache
+F:\progect\alternative clock 2.0\alternative clock 2.0\obj\Debug\net6.0-windows\ref\alternative clock 2.0.dll
